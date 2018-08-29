@@ -1,7 +1,7 @@
 exports.config = {
     framework: 'jasmine',
     seleniumAddress: 'http://localhost:4444/wd/hub',
-    specs: ['spec.js'],
+    specs: ['17.08 Homework spec.js'],
     capabilities: {
         browserName: 'firefox'
     },
