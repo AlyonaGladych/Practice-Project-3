@@ -1,4 +1,4 @@
-let LoginPage = require('./27.08 Homework AdminPage.js');
+let AdminPage = require('./27.08 Homework AdminPage.js');
 
 describe('Add new product', function() {
     it('should be able to add new product', async function() {
