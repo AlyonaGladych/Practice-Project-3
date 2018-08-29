@@ -1,0 +1,20 @@
+XPath:
+
+$x('//*[@class="mw-wiki-logo"]')
+
+$x('//div[@id="articlecount"]')
+
+$x('//div[@id="mp-dyk"]/child::ul/child::li[4]')
+
+count(//*[@id='p-interaction']//li)
+
+
+CSS:
+
+$('.mw-wiki-logo')
+
+$('#articlecount')
+
+$('#ca-nstab-main a[href="/wiki/Main_Page"]')
+
+$('#mp-dyk ul li')[1]
