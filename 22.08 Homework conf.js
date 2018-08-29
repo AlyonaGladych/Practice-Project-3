@@ -4,7 +4,7 @@ exports.config = {
   framework: "jasmine",
   allScriptsTimeout: 45000,
   getPageTimeout: 30000,
-  specs: ["login_spec2.js"],
+  specs: ["22.08 Homework login_spec.js"],
  
   capabilities: {
     browserName: 'firefox'
